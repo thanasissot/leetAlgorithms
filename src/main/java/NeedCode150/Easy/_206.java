@@ -1,4 +1,4 @@
-package Easy;
+package NeedCode150.Easy;
 
 import java.util.List;
 

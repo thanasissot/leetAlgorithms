@@ -1,6 +1,4 @@
-package Medium;
-
-import Easy._242; // isAnagram
+package NeedCode150.Medium;
 
 import java.util.*;
 import java.util.stream.Collectors;

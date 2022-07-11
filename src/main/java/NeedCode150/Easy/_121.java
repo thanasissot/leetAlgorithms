@@ -1,4 +1,4 @@
-package Easy;
+package NeedCode150.Easy;
 
 public class _121 {
     public int maxProfit(int[] prices) {

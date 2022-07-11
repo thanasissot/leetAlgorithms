@@ -1,9 +1,9 @@
-package Easy;
+package NeedCode150.Easy;
 
 import java.util.*;
 
 public class _217 {
-    // TIME Effiecient
+    // TIME Efficient
     public boolean containsDuplicateTime(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for (int a : nums) {

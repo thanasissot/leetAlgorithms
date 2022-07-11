@@ -1,4 +1,4 @@
-package Easy;
+package NeedCode150.Easy;
 
 public class _704 {
     // binary search implementation

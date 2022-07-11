@@ -1,4 +1,4 @@
-package Medium;
+package NeedCode150.Medium;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -32,6 +32,38 @@ public class _347 {
             }
         }
         return res;
+    }
+
+    // O(n) Big O - what happens is you omit the sorting of a list which is O(nlogn)
+    // the trick is using an array but the length of it can only be nums.length
+    public static int[] topKFrequent1(int[] nums, int k) {
+        // n
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int a : nums) {
+            map.put(a, map.getOrDefault(a, 0) + 1);
+        }
+
+        ArrayList[] arr = new ArrayList[nums.length + 1];
+        // traverse the map and add each element to the ArrayList[] index according to number of appearances
+        for (int a : map.keySet()) {
+            if(arr[map.get(a)] == null) {
+                arr[map.get(a)] = new ArrayList<Integer>();
+            }
+            arr[map.get(a)].add(a);
+        }
+
+        int[] result = new int[k];
+        int counter = 0;
+        for (int i = arr.length-1; i >= 0 && counter < k; i--) {
+            if (arr[i] == null) continue;
+            else {
+                for (int j = 0; j < arr[i].size(); j++){
+                    result[counter++] = (int) arr[i].get(j);
+                }
+            }
+        }
+
+        return result;
     }
 
     public static void main(String[] args) {

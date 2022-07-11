@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy/_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy/_704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium/_347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Rest/Easy/_268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Rest/Easy/_283.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_242.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/_704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Medium/_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Medium/_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_49.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +58,36 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._347">
+  <component name="RunManager" selected="Application._283">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium._167" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rest.Easy._283" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rest.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._283" />
+        <item itemvalue="Application._167" />
         <item itemvalue="Application._347" />
         <item itemvalue="Application._704" />
         <item itemvalue="Application.Main" />
@@ -101,7 +141,11 @@
       <workItem from="1657131235114" duration="1424000" />
       <workItem from="1657134321357" duration="3577000" />
       <workItem from="1657311845800" duration="4873000" />
-      <workItem from="1657367633067" duration="3828000" />
+      <workItem from="1657367633067" duration="10019000" />
+      <workItem from="1657439548783" duration="682000" />
+      <workItem from="1657456914776" duration="1277000" />
+      <workItem from="1657484480418" duration="3788000" />
+      <workItem from="1657565933601" duration="3564000" />
     </task>
     <servers />
   </component>
@@ -118,16 +162,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Medium/_347.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
