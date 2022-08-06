@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_136.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,29 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._128">
-    <configuration name="_128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NeedCode150.Medium._128" />
+  <component name="RunManager" selected="Application._424">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.geeksforgeeks.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeedCode150.Medium._3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -58,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium._167" />
+    <configuration name="_424" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeedCode150.Medium._424" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Medium.*" />
+          <option name="PATTERN" value="NeedCode150.Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,38 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rest.Easy._283" />
+    <configuration name="_695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rest.Medium._695" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rest.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium._347" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy._704" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Rest.Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._128" />
-        <item itemvalue="Application._283" />
-        <item itemvalue="Application._167" />
-        <item itemvalue="Application._347" />
-        <item itemvalue="Application._704" />
+        <item itemvalue="Application._424" />
+        <item itemvalue="Application._3" />
+        <item itemvalue="Application._695" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +133,22 @@
       <workItem from="1657484480418" duration="3788000" />
       <workItem from="1657565933601" duration="5442000" />
       <workItem from="1657653858463" duration="3142000" />
-      <workItem from="1657902345394" duration="1631000" />
+      <workItem from="1657902345394" duration="3280000" />
+      <workItem from="1657980681930" duration="3193000" />
+      <workItem from="1658011124119" duration="937000" />
+      <workItem from="1658057581168" duration="1409000" />
+      <workItem from="1658071846588" duration="149000" />
+      <workItem from="1658177809589" duration="2214000" />
+      <workItem from="1658211594689" duration="1643000" />
+      <workItem from="1658232495237" duration="5290000" />
+      <workItem from="1658307430128" duration="6298000" />
+      <workItem from="1658323833622" duration="1330000" />
+      <workItem from="1658331357943" duration="5789000" />
+      <workItem from="1658423513077" duration="7516000" />
+      <workItem from="1658437497457" duration="2130000" />
+      <workItem from="1658611499220" duration="1991000" />
+      <workItem from="1659781741341" duration="14000" />
+      <workItem from="1659781844251" duration="353000" />
     </task>
     <servers />
   </component>
@@ -156,5 +165,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_424.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="c" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
