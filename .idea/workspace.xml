@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/InnerClasses/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._118">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode" />
@@ -54,7 +51,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NeedCode150.Easy._118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeedCode150.Easy._118" />
       <module name="LeetCode" />
       <extension name="coverage">
@@ -108,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._118" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.NeedCode150.Easy._118" />
         <item itemvalue="Application._424" />
         <item itemvalue="Application._3" />
         <item itemvalue="Application._695" />
@@ -153,7 +150,7 @@
       <workItem from="1659781844251" duration="4589000" />
       <workItem from="1659786776895" duration="274000" />
       <workItem from="1659788871201" duration="321000" />
-      <workItem from="1660064696803" duration="971000" />
+      <workItem from="1660064696803" duration="4026000" />
     </task>
     <servers />
   </component>
