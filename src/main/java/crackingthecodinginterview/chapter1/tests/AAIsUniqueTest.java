@@ -1,8 +1,8 @@
-package crackingthecodinginterview.tests;
+package crackingthecodinginterview.chapter1.tests;
 
 import org.junit.jupiter.api.Test;
 
-import static crackingthecodinginterview.AAisUnique.isUnique;
+import static crackingthecodinginterview.chapter1.AAisUnique.isUnique;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AAIsUniqueTest {

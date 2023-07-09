@@ -1,9 +1,9 @@
-package crackingthecodinginterview.tests;
+package crackingthecodinginterview.chapter1.tests;
 
 import org.junit.jupiter.api.Test;
 
-import static crackingthecodinginterview.ABisPermutation.isPermutations;
-import static crackingthecodinginterview.ABisPermutation.isPermutations2;
+import static crackingthecodinginterview.chapter1.ABisPermutation.isPermutations;
+import static crackingthecodinginterview.chapter1.ABisPermutation.isPermutations2;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ABisPermutationTest {

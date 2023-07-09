@@ -1,8 +1,8 @@
-package crackingthecodinginterview.tests;
+package crackingthecodinginterview.chapter1.tests;
 
 import org.junit.jupiter.api.Test;
 
-import static crackingthecodinginterview.ACURLify.urlify;
+import static crackingthecodinginterview.chapter1.ACURLify.urlify;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ACURLifyTest {
