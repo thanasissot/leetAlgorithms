@@ -2,11 +2,11 @@ package crackingthecodinginterview.chapter1.tests;
 
 import org.junit.jupiter.api.Test;
 
-import static crackingthecodinginterview.chapter1.ABisPermutation.isPermutations;
-import static crackingthecodinginterview.chapter1.ABisPermutation.isPermutations2;
+import static crackingthecodinginterview.chapter1.B_isPermutation.isPermutations;
+import static crackingthecodinginterview.chapter1.B_isPermutation.isPermutations2;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class ABisPermutationTest {
+public class B_isPermutationTest {
     @Test
     public void testPermutation1() {
         String a = "abc";

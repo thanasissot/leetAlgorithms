@@ -2,10 +2,10 @@ package crackingthecodinginterview.chapter1.tests;
 
 import org.junit.jupiter.api.Test;
 
-import static crackingthecodinginterview.chapter1.ACURLify.urlify;
+import static crackingthecodinginterview.chapter1.C_URLify.urlify;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class ACURLifyTest {
+public class C_URLifyTest {
     @Test
     public void testURLify1() {
         String input = "Mr John Smith    ";

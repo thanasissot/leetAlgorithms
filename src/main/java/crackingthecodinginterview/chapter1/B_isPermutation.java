@@ -3,7 +3,7 @@ package crackingthecodinginterview.chapter1;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class ABisPermutation {
+public class B_isPermutation {
 
     // Describe what it means for two strings to be permutations of each other. Now, look at
     //        that definition you provided. Can you check the strings against that definition?
