@@ -1,4 +1,4 @@
-package NeedCode150.InnerClasses;
+package NeetCode150_old.InnerClasses;
 
 public class ListNode {
     public int val;

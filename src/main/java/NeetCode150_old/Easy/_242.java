@@ -1,7 +1,4 @@
-package NeedCode150.Easy;
-
-import java.util.HashMap;
-import java.util.Map;
+package NeetCode150_old.Easy;
 
 public class _242 {
     // TIME & SPACE (memory efficient)

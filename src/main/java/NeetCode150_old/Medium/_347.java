@@ -1,7 +1,6 @@
-package NeedCode150.Medium;
+package NeetCode150_old.Medium;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class _347 {
     // my brute force solution -> nlong + extra space 3n

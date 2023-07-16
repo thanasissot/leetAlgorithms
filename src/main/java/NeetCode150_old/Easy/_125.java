@@ -1,6 +1,4 @@
-package NeedCode150.Easy;
-
-import java.util.Locale;
+package NeetCode150_old.Easy;
 
 public class _125 {
     public boolean isPalindrome(String s) {

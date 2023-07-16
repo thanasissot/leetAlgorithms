@@ -1,6 +1,6 @@
-package NeedCode150.Easy;
+package NeetCode150_old.Easy;
 
-import NeedCode150.InnerClasses.ListNode;
+import NeetCode150_old.InnerClasses.ListNode;
 
 public class _234 {
     public boolean isPalindrome(ListNode head) {

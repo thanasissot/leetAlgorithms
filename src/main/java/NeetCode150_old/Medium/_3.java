@@ -1,4 +1,4 @@
-package NeedCode150.Medium;
+package NeetCode150_old.Medium;
 
 import java.util.*;
 

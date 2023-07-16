@@ -1,4 +1,4 @@
-package NeedCode150.Easy;
+package NeetCode150_old.Easy;
 
 public class _21 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

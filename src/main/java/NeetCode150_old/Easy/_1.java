@@ -1,4 +1,4 @@
-package NeedCode150.Easy;
+package NeetCode150_old.Easy;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package NeedCode150.Medium;
+package NeetCode150_old.Medium;
 
 public class _167 {
     public static int[] twoSum(int[] numbers, int target) {

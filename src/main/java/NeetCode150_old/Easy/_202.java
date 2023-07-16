@@ -1,7 +1,4 @@
-package NeedCode150.Easy;
-
-import java.util.ArrayList;
-import java.util.List;
+package NeetCode150_old.Easy;
 
 public class _202 {
 

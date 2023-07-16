@@ -1,6 +1,6 @@
-package NeedCode150.Medium;
+package NeetCode150_old.Medium;
 
-import NeedCode150.InnerClasses.ListNode;
+import NeetCode150_old.InnerClasses.ListNode;
 
 public class _2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

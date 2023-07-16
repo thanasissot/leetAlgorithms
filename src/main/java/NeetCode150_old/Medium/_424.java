@@ -1,6 +1,4 @@
-package NeedCode150.Medium;
-
-import java.util.ArrayList;
+package NeetCode150_old.Medium;
 
 public class _424 {
     public static int characterReplacement(String s, int k) {
