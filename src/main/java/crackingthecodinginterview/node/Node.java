@@ -5,8 +5,8 @@ package crackingthecodinginterview.node;
  * We access the linked list through a reference to the head Node of the linked list.
  */
 public class Node {
-    Node next = null;
-    int data;
+    public Node next = null;
+    public int data;
 
     public Node(int d) {
         data = d;
@@ -17,7 +17,7 @@ public class Node {
      * @param d
      * Returns void
      */
-    void appendToTail(int d) {
+    public void appendToTail(int d) {
         Node end = new Node(d);
         Node n = this;
         while(n.next != null) {
@@ -30,7 +30,7 @@ public class Node {
      * Delete a single node of value d, if it exists
      * Return head of the linked list
      */
-    Node deleteNode(Node head, int d) {
+    public static Node deleteNode(Node head, int d) {
         Node n = head;
 
         if (n.data == d) {
@@ -49,5 +49,11 @@ public class Node {
         return head; /* head does not change */
     }
 
-
+    @Override
+    public String toString() {
+        return "{" +
+                "next=" + next +
+                ", data=" + data +
+                '}';
+    }
 }
