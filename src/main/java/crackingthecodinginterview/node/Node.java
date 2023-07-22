@@ -56,4 +56,27 @@ public class Node {
                 ", data=" + data +
                 '}';
     }
+
+    // Helper method to print the linked list
+    public static void printLinkedList(Node head) {
+        Node current = head;
+        while (current != null) {
+            System.out.print(current.data + " ");
+            current = current.next;
+        }
+        System.out.println();
+    }
+
+    // Helper method to create a linked list with given values
+    public static Node createLinkedList(int... values) {
+        Node head = null;
+        for (int val : values) {
+            if (head == null) {
+                head = new Node(val);
+            } else {
+                head.appendToTail(val);
+            }
+        }
+        return head;
+    }
 }

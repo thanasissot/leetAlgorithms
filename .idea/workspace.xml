@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/B_KthToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/B_KthToLastTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_202.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_237.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_242.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Easy/_704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Easy/_704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/InnerClasses/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/InnerClasses/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_347.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_424.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_424.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeedCode150/Medium/_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150_old/Medium/_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter1/A_isUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter1/A_isUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter1/B_isPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter1/B_isPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/node/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +46,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.H_ZeroMatrixTest">
+  <component name="RunManager" selected="JUnit.B_KthToLastTest.testKthToLast_KZero">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -103,79 +84,80 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="G_RotateMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B_KthToLastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter1.tests.*" />
+          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter1.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter1.tests.G_RotateMatrixTest" />
+      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G_RotateMatrixTest.testRotateMatrix_5x5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B_KthToLastTest.testKthToLast_KEqualToListLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter1.tests.*" />
+          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter1.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter1.tests.G_RotateMatrixTest" />
-      <option name="METHOD_NAME" value="testRotateMatrix_5x5" />
+      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
+      <option name="METHOD_NAME" value="testKthToLast_KEqualToListLength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H_ZeroMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B_KthToLastTest.testKthToLast_KGreaterThanListLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter1.tests.*" />
+          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter1.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter1.tests.H_ZeroMatrixTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="H_ZeroMatrixTest.testZeroMatrix_2x2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter1.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter1.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter1.tests.H_ZeroMatrixTest" />
-      <option name="METHOD_NAME" value="testZeroMatrix_2x2" />
+      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
+      <option name="METHOD_NAME" value="testKthToLast_KGreaterThanListLength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H_ZeroMatrixTest.testZeroMatrix_3x3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B_KthToLastTest.testKthToLast_KPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter1.tests.*" />
+          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter1.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter1.tests.H_ZeroMatrixTest" />
-      <option name="METHOD_NAME" value="testZeroMatrix_3x3" />
+      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
+      <option name="METHOD_NAME" value="testKthToLast_KPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_KthToLastTest.testKthToLast_KZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
+      <option name="METHOD_NAME" value="testKthToLast_KZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.H_ZeroMatrixTest" />
-        <item itemvalue="JUnit.H_ZeroMatrixTest.testZeroMatrix_2x2" />
-        <item itemvalue="JUnit.H_ZeroMatrixTest.testZeroMatrix_3x3" />
-        <item itemvalue="JUnit.G_RotateMatrixTest" />
-        <item itemvalue="JUnit.G_RotateMatrixTest.testRotateMatrix_5x5" />
+        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KZero" />
+        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KPositive" />
+        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KEqualToListLength" />
+        <item itemvalue="JUnit.B_KthToLastTest" />
+        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KGreaterThanListLength" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +229,13 @@
       <workItem from="1688902184127" duration="4235000" />
       <workItem from="1688918487401" duration="9849000" />
       <workItem from="1689427104042" duration="176000" />
-      <workItem from="1689497814681" duration="2259000" />
+      <workItem from="1689497814681" duration="5374000" />
+      <workItem from="1689523486445" duration="1587000" />
+      <workItem from="1689526342084" duration="504000" />
+      <workItem from="1689526854135" duration="998000" />
+      <workItem from="1689759832349" duration="284000" />
+      <workItem from="1690008220910" duration="4632000" />
+      <workItem from="1690028747301" duration="1226000" />
     </task>
     <servers />
   </component>
@@ -278,12 +266,22 @@
           <line>12</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/A_RemoveDupsTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/A_RemoveDupsTest.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/B_KthToLast.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="c" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
