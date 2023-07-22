@@ -2,7 +2,7 @@ package NeetCode150;
 
 import java.util.HashMap;
 
-public class LeetCode {
+public class LeetCode_1 {
     // 1. Two sum
     /**
      * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -24,6 +24,4 @@ public class LeetCode {
 
         return new int[2];
     }
-
-
 }
