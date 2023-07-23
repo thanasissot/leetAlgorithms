@@ -30,11 +30,9 @@ public class LeetCode_238 {
 
         int[] leftToRight = new int[nums.length];
         int[] rightToLeft = new int[nums.length];
-        StringBuilder str = new StringBuilder();
         // map left to right
         int product = 1;
         for (int i = 0; i < nums.length; i++) {
-            str.append(i);
             product *= nums[i];
             leftToRight[i] = product;
         }
@@ -42,7 +40,6 @@ public class LeetCode_238 {
 
         product = 1;
         for (int i = nums.length - 1; i >= 0 ; i--) {
-            str.insert(0, i);
             product *= nums[i];
             rightToLeft[i] = product;
         }
