@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/Leetcode_128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/C_DeleteMiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/C_DeleteMiddleNodeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_238.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeetCode_238">
+  <component name="RunManager" selected="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_TwoNodeList">
     <configuration name="LeetCode_238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeetCode150.LeetCode_238" />
       <module name="LeetCode" />
@@ -95,7 +97,7 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="B_KthToLastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C_DeleteMiddleNodeTest.testRemoveMiddleNode_EvenLengthList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -104,29 +106,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B_KthToLastTest.testKthToLast_KEqualToListLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
-      <option name="METHOD_NAME" value="testKthToLast_KEqualToListLength" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.C_DeleteMiddleNodeTest" />
+      <option name="METHOD_NAME" value="testRemoveMiddleNode_EvenLengthList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_KthToLastTest.testKthToLast_KPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C_DeleteMiddleNodeTest.testRemoveMiddleNode_OddLengthList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -135,14 +122,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
-      <option name="METHOD_NAME" value="testKthToLast_KPositive" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.C_DeleteMiddleNodeTest" />
+      <option name="METHOD_NAME" value="testRemoveMiddleNode_OddLengthList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_KthToLastTest.testKthToLast_KZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C_DeleteMiddleNodeTest.testRemoveMiddleNode_SingleNodeList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -151,8 +138,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.B_KthToLastTest" />
-      <option name="METHOD_NAME" value="testKthToLast_KZero" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.C_DeleteMiddleNodeTest" />
+      <option name="METHOD_NAME" value="testRemoveMiddleNode_SingleNodeList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C_DeleteMiddleNodeTest.testRemoveMiddleNode_TwoNodeList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
+      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.C_DeleteMiddleNodeTest" />
+      <option name="METHOD_NAME" value="testRemoveMiddleNode_TwoNodeList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_TwoNodeList" />
+        <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_SingleNodeList" />
+        <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_EvenLengthList" />
+        <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_OddLengthList" />
         <item itemvalue="Application.LeetCode_238" />
-        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KZero" />
-        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KPositive" />
-        <item itemvalue="JUnit.B_KthToLastTest.testKthToLast_KEqualToListLength" />
-        <item itemvalue="JUnit.B_KthToLastTest" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +235,9 @@
       <workItem from="1690008220910" duration="4632000" />
       <workItem from="1690028747301" duration="2677000" />
       <workItem from="1690042760907" duration="2568000" />
-      <workItem from="1690091698148" duration="4168000" />
+      <workItem from="1690091698148" duration="5439000" />
+      <workItem from="1690522338126" duration="2576000" />
+      <workItem from="1690708678572" duration="632000" />
     </task>
     <servers />
   </component>
@@ -280,8 +285,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_238.java</url>
-          <line>51</line>
+          <line>48</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/C_DeleteMiddleNodeTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
