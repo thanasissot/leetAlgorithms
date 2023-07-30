@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/Leetcode_128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/C_DeleteMiddleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/C_DeleteMiddleNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/D_Partition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +52,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_TwoNodeList">
-    <configuration name="LeetCode_238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NeetCode150.LeetCode_238" />
+  <component name="RunManager" selected="Application.LeetCode_86">
+    <configuration name="LeetCode_86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeetCode150.LeetCode_86" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -174,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_86" />
         <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_TwoNodeList" />
         <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_SingleNodeList" />
         <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_EvenLengthList" />
         <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_OddLengthList" />
-        <item itemvalue="Application.LeetCode_238" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,7 @@
       <workItem from="1690042760907" duration="2568000" />
       <workItem from="1690091698148" duration="5439000" />
       <workItem from="1690522338126" duration="2576000" />
-      <workItem from="1690708678572" duration="632000" />
+      <workItem from="1690708678572" duration="2581000" />
     </task>
     <servers />
   </component>
@@ -289,9 +288,14 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/tests/C_DeleteMiddleNodeTest.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/src/main/java/crackingthecodinginterview/chapter2/C_DeleteMiddleNode.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_86.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
