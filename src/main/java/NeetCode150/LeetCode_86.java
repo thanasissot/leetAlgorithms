@@ -2,14 +2,6 @@ package NeetCode150;
 
 public class LeetCode_86 {
 
-      public static class ListNode {
-          int val;
-          ListNode next;
-          ListNode() {}
-          ListNode(int val) { this.val = val; }
-          ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-      }
-
     /**
      * Given the head of a linked list and a value x,
      * partition it such that all nodes less than x come before nodes greater than or equal to x.
