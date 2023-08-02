@@ -57,4 +57,51 @@ public class LeetCode_234 {
         return true;
     }
 
+    class Solution {
+        public boolean isPalindrome(ListNode head) {
+            ListNode middleNode = getMiddle(head);
+
+            ListNode reverseListHead = reverseList(middleNode);
+
+
+            ListNode l1 = head;
+            ListNode l2 = reverseListHead;
+
+            while(l2 != null && l1 != l2){
+                if(l1.val != l2.val) return false;
+
+                l1 = l1.next;
+                l2 = l2.next;
+            }
+
+            return true;
+        }
+
+        private ListNode getMiddle(ListNode nd){
+            ListNode slow = nd;
+            ListNode fast = nd;
+
+            while(fast != null && fast.next != null){
+                slow = slow.next;
+                fast = fast.next.next;
+            }
+
+            return slow;
+        }
+
+        private ListNode reverseList(ListNode nd){
+            ListNode prev = null;
+            ListNode curr = nd;
+
+            while(curr != null){
+                ListNode temp = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = temp;
+            }
+
+            return prev;
+        }
+    }
+
 }
