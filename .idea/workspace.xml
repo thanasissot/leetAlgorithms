@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf6257f-04c8-4d2c-840b-c715efe9490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode150/LeetCode_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeetCode_234">
+  <component name="RunManager" selected="Application.LeetCode_15">
+    <configuration name="LeetCode_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeetCode150.LeetCode_15" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NeetCode150.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeetCode_234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeetCode150.LeetCode_234" />
       <module name="LeetCode" />
@@ -108,22 +121,6 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="C_DeleteMiddleNodeTest.testRemoveMiddleNode_EvenLengthList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="crackingthecodinginterview.chapter2.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="crackingthecodinginterview.chapter2.tests" />
-      <option name="MAIN_CLASS_NAME" value="crackingthecodinginterview.chapter2.tests.C_DeleteMiddleNodeTest" />
-      <option name="METHOD_NAME" value="testRemoveMiddleNode_EvenLengthList" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C_DeleteMiddleNodeTest.testRemoveMiddleNode_SingleNodeList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -169,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_15" />
         <item itemvalue="Application.LeetCode_234" />
         <item itemvalue="Application.LeetCode_86" />
         <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_TwoNodeList" />
         <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_SingleNodeList" />
-        <item itemvalue="JUnit.C_DeleteMiddleNodeTest.testRemoveMiddleNode_EvenLengthList" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +235,9 @@
       <workItem from="1691070074170" duration="389000" />
       <workItem from="1691233807079" duration="2142000" />
       <workItem from="1691310857039" duration="8684000" />
+      <workItem from="1691345216266" duration="388000" />
+      <workItem from="1692085139448" duration="1724000" />
+      <workItem from="1692116800451" duration="1286000" />
     </task>
     <servers />
   </component>
